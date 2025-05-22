@@ -10,7 +10,7 @@
 #### Nível de dificuldade: Intermediário. 
 
 ### 🛠 Estrutura do Curso
-#### O curso está dividido nas seguintes aulas:
+#### O curso está dividido nas seguintes aulas: 
 - Aula 1 - Design centrado no usuário
 - Aula 2 - UX
 - Aula 3 - Elementos da experiência do usuário

@@ -12,7 +12,7 @@
 #### Nível de dificuldade: Intermediário. 
 
 ### 🛠 Estrutura do Curso
-#### O curso está dividido nas seguintes aulas:
+#### O curso está dividido nas seguintes aulas: 
 - Aula 1 - Por que estudar JavaScript?
 - Aula 2 - Linguagens e JavaScript
 - Aula 3 - JavaScript e HTML

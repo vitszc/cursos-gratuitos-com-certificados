@@ -8,7 +8,7 @@ O MySQL é o banco de dados de código aberto mais conhecido no mundo. Com compr
 
 
 ## 🚀 Sobre o Curso
-O curso de banco de dados com MySQL vai te mostrar como criar um banco de dados de maneira simples e interativa.
+O curso de banco de dados com MySQL vai te mostrar como criar um banco de dados de maneira simples e interativa. 
 
 ## 🛠 Conteúdo programático:
 
