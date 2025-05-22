@@ -8,7 +8,7 @@
 
 
 ## 🚀 Sobre o Curso
-O curso \"Estratégias de UX para Interfaces Intuitivas\" aborda os principais conceitos, técnicas e ferramentas relacionadas à experiência do usuário. Com foco em proporcionar interfaces intuitivas e eficientes, o curso abrange desde os fundamentos do UX até as tendências mais atuais da área. Através de aulas práticas e estudos de caso, os participantes aprenderão a realizar pesquisas de usuário, desenvolver arquiteturas de informação, criar designs de interfaces atraentes e funcionais, além de aprimorar suas habilidades em prototipação e teste de usabilidade. Com ênfase em estratégias avançadas e ética em UX, este curso é essencial para profissionais que buscam a excelência na criação de experiências digitais impactantes e centradas no usuário.
+O curso \"Estratégias de UX para Interfaces Intuitivas\" aborda os principais conceitos, técnicas e ferramentas relacionadas à experiência do usuário. Com foco em proporcionar interfaces intuitivas e eficientes, o curso abrange desde os fundamentos do UX até as tendências mais atuais da área. Através de aulas práticas e estudos de caso, os participantes aprenderão a realizar pesquisas de usuário, desenvolver arquiteturas de informação, criar designs de interfaces atraentes e funcionais, além de aprimorar suas habilidades em prototipação e teste de usabilidade. Com ênfase em estratégias avançadas e ética em UX, este curso é essencial para profissionais que buscam a excelência na criação de experiências digitais impactantes e centradas no usuário. 
 
 ## 🛠 Conteúdo programático:
 

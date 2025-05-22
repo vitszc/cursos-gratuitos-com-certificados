@@ -9,7 +9,7 @@
 ##### Este curso é para aquele aluno e/ou profissional das áreas de tecnologia da informação, design e editoração, que apesar de já familiarizado com a linguagem HTML, percebeu a importância da interatividade em qualquer projeto web, e que, por não ser iniciado em linguagens de programação, sentia-se deslocado neste ambiente.
 ##### Este curso tem o propósito de ser um material de entrada para a linguagem JavaScript, porém é fundamental algum conhecimento da linguagem HTML já que é dentro dela que construiremos os conceitos e atividades apresentados neste curso.
 ##### É recomendada a idade mínima de 16 anos.
-#### Nível de dificuldade: Intermediário.
+#### Nível de dificuldade: Intermediário. 
 
 ### 🛠 Estrutura do Curso
 #### O curso está dividido nas seguintes aulas:

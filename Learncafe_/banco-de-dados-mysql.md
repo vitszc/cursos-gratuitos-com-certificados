@@ -1,7 +1,7 @@
 
 # Banco de Dados MySQL
 
-O MySQL é o banco de dados de código aberto mais conhecido no mundo. Com comprovado desempenho, confiabilidade e facilidade de uso, o MySQL tornou-se a principal opção de banco de dados para aplicativos baseados na Web, usado por propriedades da Web de alto perfil, incluindo Facebook, Twitter, YouTube e todos os cinco sites principais.
+O MySQL é o banco de dados de código aberto mais conhecido no mundo. Com comprovado desempenho, confiabilidade e facilidade de uso, o MySQL tornou-se a principal opção de banco de dados para aplicativos baseados na Web, usado por propriedades da Web de alto perfil, incluindo Facebook, Twitter, YouTube e todos os cinco sites principais. 
 
 
 

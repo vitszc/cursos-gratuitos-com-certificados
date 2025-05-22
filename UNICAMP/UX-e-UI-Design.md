@@ -7,7 +7,7 @@
 ### 🧠 O que eu preciso saber?
 
 ##### É fundamental algum conhecimento com técnicas e linguagens de criação de websites, já que é a proposta do curso é somar novos conhecimentos para que os alunos possam otimizar o seu trabalho.
-#### Nível de dificuldade: Intermediário.
+#### Nível de dificuldade: Intermediário. 
 
 ### 🛠 Estrutura do Curso
 #### O curso está dividido nas seguintes aulas:
